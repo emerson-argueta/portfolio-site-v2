@@ -5,6 +5,6 @@ module.exports = {
         REDIS_URL: "rediss://:e56206a0efa446138d0d0c2dfb324420@us1-touched-walleye-32804.upstash.io:32804",
         GOOGLE_ID: "310320347573-4eflgrc0004cir24lse1tsub9rijt4c3.apps.googleusercontent.com",
         GOOGLE_SECRET: "vABlrDRC_f7zhIm3xGK46kJN",
-        SITE: "https://emersonargueta.com"
+        SITE: "https://www.emersonargueta.com"
     },
 }
