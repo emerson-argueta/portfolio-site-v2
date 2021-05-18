@@ -1,6 +1,5 @@
 import React from 'react'
 import { IProject } from '.'
-import { ProjectLinks } from './ProjectLinks'
 
 interface ProjectDescriptionProps {
     project?: IProject
